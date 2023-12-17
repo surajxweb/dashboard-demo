@@ -1,0 +1,8 @@
+.datepicker {
+  display: flex;
+  gap: 40px;
+}
+
+.datepicker label {
+  margin-right: 10px;
+}
